@@ -1,0 +1,8 @@
+{
+  "name": "Bao Retro Camera",
+  "description": "A nostalgic instant camera web app with AI-powered captions and a drag-and-drop photo wall.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
